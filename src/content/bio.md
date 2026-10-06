@@ -1,17 +1,17 @@
 ---
-name: "Claude Shannon"
+name: "Alvaro Moreno"
 avatar: "shannon.jpg"
-shortBio: "Mathematician and electrical engineer known as the 'Father of Information Theory'. Pioneer in digital computing and cryptography."
-institution: "MIT, Cambridge MA"
+shortBio: "Electrical engineering student."
+institution: "Udec, Concepción"
 ---
 
 I am a mathematician and electrical engineer best known for founding **Information Theory**. My work in the late 1940s established the theoretical foundations of modern digital communications and computing.
 
 ## My Life
 
-Born in Petoskey, Michigan on April 30, 1916, I showed an early aptitude for engineering and mathematics. After studying at the University of Michigan, I completed my PhD at MIT where I famously applied Boolean algebra to electrical circuits. My master's thesis on relay switching circuits is considered one of the most important master's theses ever written.
+Born in Los Angeles, Chile on August 19, 2005, I showed an early interest in engineering and mathematics.After studying during my childhood at San Jose school in Cabrero, Chile, I applied to Universidad de Concepción where I am currently pursuing my undergraduate degree in Electrical engineering.
 
-During World War, I worked at Bell Labs on fire control systems and cryptography, which led to my seminal work in information theory.
+
 
 ## Current Work
 
@@ -19,9 +19,9 @@ I continue to work on various problems at the intersection of mathematics, engin
 
 I also enjoy juggling, unicycling, and playing the clarinet - I even built a juggling machine!
 
-## Research Interests
+## Interests
 
-My research focus includes: **Information Theory**, **Cryptography**, **Digital Computing**, **Artificial Intelligence**, **Game Theory**, and **Switching Circuits**.
+My interest focus It is in **Embedded systems**, **Data centers**, **Artificial Intelligence**, **Power systems**, and **Energy transition**.
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: "Claude Shannon"
+name: "Alvaro Moreno"
 title: "Mathematician and Electrical Engineer"
 experience:
   - role: "Research Mathematician"
@@ -22,11 +22,9 @@ education:
 ---
 
 ## Skills
-- Information Theory
 - Mathematics
 - Electrical Engineering
-- Cryptography
-- Computer Science
+- Programming
 
 ## Biographical Summary
 Extra biographical notes or a summary can go here.

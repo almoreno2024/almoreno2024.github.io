@@ -5,24 +5,28 @@ shortBio: "Electrical engineering student."
 institution: "Udec, Concepción"
 ---
 
-I am a mathematician and electrical engineer best known for founding **Information Theory**. My work in the late 1940s established the theoretical foundations of modern digital communications and computing.
+Hi, welcome to my portfolio, I am an electrical engineering student at the Universidad de Concepción, mostly interested in embedded systems and data centers infraestructure.
 
 ## My Life
 
-Born in Los Angeles, Chile on August 19, 2005, I showed an early interest in engineering and mathematics.After studying during my childhood at San Jose school in Cabrero, Chile, I applied to Universidad de Concepción where I am currently pursuing my undergraduate degree in Electrical engineering.
+I was born in Los Ángeles, Chile and showed an early interest in engineering and mathematics. After studying at San José school in Cabrero, Chile, I enrolled at Universidad de Concepción where I am currently pursuing my undergraduate degree in electrical engineering.
 
 
 
 ## Current Work
 
-I continue to work on various problems at the intersection of mathematics, engineering, and computer science. My interests include artificial intelligence, pattern recognition, game theory, and the fundamental limits of computation.
+I am currently working on different personal projects. One of them is the modeling of a data center, all advances and the final proyect of all my works will be published on the code page of this portfolio.
 
-I also enjoy juggling, unicycling, and playing the clarinet - I even built a juggling machine!
+
 
 ## Interests
 
-My interest focus It is in **Embedded systems**, **Data centers**, **Artificial Intelligence**, **Power systems**, and **Energy transition**.
+- Embedded systems 
+- Data centers
+- Power systems
+- Energy transition
 
 ---
 
-*"I am a mathematician. I am interested in the fundamental limits on the rate at which information can be transmitted."*
+"The progressive development of man is vitally dependent on invention. It is the most important product of his creative brain. Its ultimate purpose is the complete mastery of mind over the material world, the harnessing of the forces of nature to human needs." 
+- Nikola Tesla (1856-1943), *My inventions*(1919).

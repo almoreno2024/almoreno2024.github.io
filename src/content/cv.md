@@ -2,7 +2,7 @@
 name: "Alvaro Moreno"
 title: "Undergraduate student"
 experience:
-  -None
+  - None
 education:
   - degree: "Electrical engineering"
     institution: "Universidad de Concepción"

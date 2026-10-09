@@ -9,8 +9,8 @@ export const SOCIALS: SocialLink[] = [
     },
     {
         name: "Mail",
-        href: "mailto:shannon@bell-labs.com",
-        linkTitle: `Send an email to Claude`,
+        href: "mailto:almoreno.eng@gmail.com",
+        linkTitle: `Send me an email`,
         isActive: true,
     },
     {
@@ -27,8 +27,8 @@ export const SOCIALS: SocialLink[] = [
     },
     {
         name: "LinkedIn",
-        href: "https://www.linkedin.com/in/claude-shannon-123456789/",
-        linkTitle: `Claude Shannon on LinkedIn`,
+        href: "https://www.linkedin.com/in/alvaro-moreno-quezada-816b16382/",
+        linkTitle: `Alvaro Moreno on LinkedIn`,
         isActive: true, // Assuming Claude doesn't have a LinkedIn profile
     },
 ];

@@ -2,11 +2,15 @@
 name: "Alvaro Moreno"
 title: "Undergraduate student"
 experience:
-  - None
+  - degree: "Electrical engineering"
+    institution: "Universidad de Concepción"
+    period: "2024 - 2030"
+    thesis: "Still not done"
+    description: "None.
 education:
   - degree: "Electrical engineering"
     institution: "Universidad de Concepción"
-    period: "2024 - ongoing"
+    period: "2024 - 2030"
     thesis: "Still not done"
     description: "None."
 

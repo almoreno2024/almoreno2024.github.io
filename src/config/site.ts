@@ -3,7 +3,7 @@ import type { SiteConfig, ThemeConfig, SettingsConfig, UmamiAnalyticsConfig, Ana
 export const SITE: SiteConfig = {
     website: "https://almoreno2024.github.io",
     author: "Alvaro Moreno",
-    desc: "Personal academic portfolio and blog of Claude Shannon, Father of Information Theory.",
+    desc: "Personal academic portfolio and blog of my projects.",
     title: "Alvaro Moreno",
     ogImage: "shannon.webp",
     postPerPage: 5,

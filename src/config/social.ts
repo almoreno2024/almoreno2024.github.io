@@ -3,8 +3,8 @@ import type { SocialLink } from "../types";
 export const SOCIALS: SocialLink[] = [
     {
         name: "Github",
-        href: "https://github.com/shannon",
-        linkTitle: `Follow Claude Shannon on Github`,
+        href: "https://github.com/almoreno2024",
+        linkTitle: `Follow Me on Github`,
         isActive: true,
     },
     {
@@ -17,13 +17,13 @@ export const SOCIALS: SocialLink[] = [
         name: "Google Scholar",
         href: "https://scholar.google.com/citations?user=shannon",
         linkTitle: `Claude Shannon on Google Scholar`,
-        isActive: true,
+        isActive: false,
     },
     {
         name: "ORCID",
         href: "https://orcid.org/0000-0002-1825-0097",
         linkTitle: `Claude Shannon on ORCID`,
-        isActive: true,
+        isActive: false,
     },
     {
         name: "LinkedIn",
@@ -37,7 +37,7 @@ export const SOCIAL_ICONS: Record<string, string> = {
     Github: "Github",
     Mail: "Mail",
     Linkedin: "LinkedIn",
-    "Google Scholar": "GoogleScholar",
-    ORCID: "ORCID",
+    //"Google Scholar": "GoogleScholar",
+    //ORCID: "ORCID",
     RSS: "RSS",
 };

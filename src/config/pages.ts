@@ -2,13 +2,13 @@ import type { PagesConfig } from "../types";
 
 export const PAGES: PagesConfig = {
     home: {
-        title: "About Me",
-        subtitle: "",
+        title: "My portfolio",
+        subtitle: "A look into my work, research, and contributions to the field of electrical engineering.",
         isActive: true,
     },
     blog: {
         title: "Blog",
-        subtitle: "Thoughts on physics, philosophy, and music.",
+        subtitle: "Thoughts on projects, programming, and technology.",
         isActive: true,
     },
     publications: {
@@ -22,7 +22,7 @@ export const PAGES: PagesConfig = {
         isActive: false,
     },
     projects: {
-        title: "Code & Projects",
+        title: "Projects",
         subtitle: "Open source contributions and technological experiments.",
         isActive: true,
     },

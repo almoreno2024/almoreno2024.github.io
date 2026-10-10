@@ -1,18 +1,15 @@
 ---
 name: "Alvaro Moreno"
-title: "Undergraduate student"
+Title: "degree"
 experience:
--  -role: "Personal projects"
--   company: "Self-directed"
--   period: "2026 - ongoing"
--   description: "Electrical and thermodynamic modeling projects for my portfolio."
+  - role: "Cargo"
+    institution: "Lugar"
+    period: "2025 - 2026"
+    description: "Qué hiciste"
 education:
--  -degree: "Electrical engineering"
--   institution: "Universidad de Concepción"
--   period: "2024 - ongoing"
--   thesis: "Still not done"
--   description: "None."
-
+  - degree: "Carrera o título"
+    institution: "Universidad"
+    period: "2022 - presente"
 ---
 
 ##Skills

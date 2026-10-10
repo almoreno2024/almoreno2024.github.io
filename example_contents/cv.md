@@ -1,21 +1,32 @@
 ---
-name: "Your Name"
-title: "Your Academic/Professional Title"
+name: "Claude Shannon"
+title: "Mathematician and Electrical Engineer"
 experience:
-  - role: "Professor of Physics"
-    institution: "University of Zurich"
-    period: "1909 - 1911"
-    description: "Taught theoretical physics and conducted research on thermodynamics."
+  - role: "Research Mathematician"
+    institution: "Bell Telephone Laboratories"
+    period: "1941 - 1972"
+    description: "Conducted groundbreaking research in information theory, cryptography, and digital computing."
+  - role: "Professor of Electrical Engineering"
+    institution: "MIT"
+    period: "1958 - 1978"
+    description: "Taught courses in information theory, switching theory, and mathematical foundations of computing."
 education:
-  - degree: "Ph.D. in Physics"
-    institution: "University of Zurich"
-    period: "1905"
-    thesis: "A New Determination of Molecular Dimensions"
-    description: "Taught theoretical physics and conducted research on thermodynamics."
+  - degree: "PhD in Mathematics"
+    institution: "MIT"
+    period: "1936 - 1940"
+    thesis: "An Algebra for Theoretical Genetics"
+    description: "Developed mathematical foundations for genetic inheritance."
+  - degree: "Bachelor of Science in Electrical Engineering"
+    institution: "University of Michigan"
+    period: "1932 - 1936"
 ---
-## Skills
-- Theoretical Physics
-- Mathematical Modeling
-- Academic Writing
 
-## Awards
+## Skills
+- Information Theory
+- Mathematics
+- Electrical Engineering
+- Cryptography
+- Computer Science
+
+## Biographical Summary
+Extra biographical notes or a summary can go here.

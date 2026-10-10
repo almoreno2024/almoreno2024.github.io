@@ -15,7 +15,7 @@ education:
 
 ---
 
-## Skills
+# Skills
 - Mathematics
 - Electrical Engineering
 - Programming

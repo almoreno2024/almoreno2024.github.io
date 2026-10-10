@@ -1,4 +1,5 @@
 ---
+title: "Curriculum vitae"
 name: "Alvaro Moreno"
 Title: "degree"
 experience:

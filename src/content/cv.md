@@ -1,16 +1,16 @@
 ---
 title: "Curriculum vitae"
 name: "Alvaro Moreno"
-Title: "degree"
+Title: "Electrical engineering undergraduate"
 experience:
-  - role: "Cargo"
-    institution: "Lugar"
-    period: "2025 - 2026"
-    description: "Qué hiciste"
+  - role: "Investigate and apply all engineering knowledges that I've gain into personal proyects"
+    institution: "Universidad de Concepción"
+    period: "2026 - ongoing"
+    description: "Publish all the works that I will do"
 education:
-  - degree: "Carrera o título"
-    institution: "Universidad"
-    period: "2022 - presente"
+  - degree: "Electrical engineering undergraduate"
+    institution: "Universidad de Concepción"
+    period: "2024 - ongoing"
 ---
 
 ##Skills
